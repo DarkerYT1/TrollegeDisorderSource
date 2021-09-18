@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Peeker.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeekerDown0000" x="0" y="0" width="448" height="649" frameX="0" frameY="-16" frameWidth="455" frameHeight="665"/>
+	<SubTexture name="PeekerDown0001" x="448" y="0" width="444" height="654" frameX="-8" frameY="-11" frameWidth="455" frameHeight="665"/>
+	<SubTexture name="PeekerDown0002" x="892" y="0" width="446" height="665" frameX="-9" frameY="0" frameWidth="455" frameHeight="665"/>
+	<SubTexture name="PeekerIdle0000" x="1338" y="0" width="445" height="649" frameX="0" frameY="-2" frameWidth="445" frameHeight="651"/>
+	<SubTexture name="PeekerIdle0001" x="1783" y="0" width="445" height="651"/>
+	<SubTexture name="PeekerIdle0002" x="2228" y="0" width="445" height="649" frameX="0" frameY="-2" frameWidth="445" frameHeight="651"/>
+	<SubTexture name="PeekerIdle0003" x="1338" y="0" width="445" height="649" frameX="0" frameY="-2" frameWidth="445" frameHeight="651"/>
+	<SubTexture name="PeekerIdle0004" x="2673" y="0" width="445" height="642" frameX="0" frameY="-9" frameWidth="445" frameHeight="651"/>
+	<SubTexture name="PeekerLeft0000" x="3118" y="0" width="635" height="661" frameX="0" frameY="-5" frameWidth="638" frameHeight="668"/>
+	<SubTexture name="PeekerLeft0001" x="0" y="665" width="633" height="667" frameX="-5" frameY="-1" frameWidth="638" frameHeight="668"/>
+	<SubTexture name="PeekerLeft0002" x="633" y="665" width="627" height="668" frameX="-7" frameY="0" frameWidth="638" frameHeight="668"/>
+	<SubTexture name="PeekerRight0000" x="1260" y="665" width="797" height="668" frameX="0" frameY="0" frameWidth="799" frameHeight="668"/>
+	<SubTexture name="PeekerRight0001" x="2057" y="665" width="794" height="665" frameX="-5" frameY="-1" frameWidth="799" frameHeight="668"/>
+	<SubTexture name="PeekerRight0002" x="2851" y="665" width="781" height="665" frameX="-13" frameY="-1" frameWidth="799" frameHeight="668"/>
+	<SubTexture name="PeekerUp0000" x="0" y="1333" width="469" height="671"/>
+	<SubTexture name="PeekerUp0001" x="469" y="1333" width="456" height="668" frameX="-9" frameY="-3" frameWidth="469" frameHeight="671"/>
+	<SubTexture name="PeekerUp0002" x="925" y="1333" width="443" height="668" frameX="-13" frameY="-3" frameWidth="469" frameHeight="671"/>
+</TextureAtlas>

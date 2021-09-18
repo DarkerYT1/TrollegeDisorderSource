@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laugh.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scare0000" x="0" y="0" width="2304" height="1296" frameX="-336" frameY="-188" frameWidth="2977" frameHeight="1673"/>
+	<SubTexture name="Scare0001" x="2304" y="0" width="2480" height="1412" frameX="-238" frameY="-105" frameWidth="2977" frameHeight="1673"/>
+	<SubTexture name="Scare0002" x="4784" y="0" width="2977" height="1673"/>
+	<SubTexture name="Scare0003" x="0" y="1673" width="2536" height="1533" frameX="-220" frameY="-70" frameWidth="2977" frameHeight="1673"/>
+	<SubTexture name="Scare0004" x="2536" y="1673" width="2432" height="1393" frameX="-272" frameY="-140" frameWidth="2977" frameHeight="1673"/>
+</TextureAtlas>
